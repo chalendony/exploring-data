@@ -1,4 +1,3 @@
-# Exploring Data
 
 ### R Scripts to find patterns in data and understand its properties.
 
